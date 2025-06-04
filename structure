@@ -1,0 +1,9 @@
+X-SIGHT/
+│
+├── data/
+│   └── monuseg/
+├── models/
+├── scripts/
+├── outputs/
+├── requirements.txt
+└── README.md
